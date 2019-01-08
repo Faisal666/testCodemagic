@@ -1,0 +1,20 @@
+PODS:
+  - AZTabBar (1.4.0):
+    - EasyNotificationBadge
+  - EasyNotificationBadge (1.2.0)
+
+DEPENDENCIES:
+  - AZTabBar
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AZTabBar
+    - EasyNotificationBadge
+
+SPEC CHECKSUMS:
+  AZTabBar: 401c86e656ed0f348a424be3d256e192f9e74a78
+  EasyNotificationBadge: afeb15ed6f9a4262d626a2b745297e96afa26c2e
+
+PODFILE CHECKSUM: e52c328c3aae4c71dd6b25e082c2ee406194fe0c
+
+COCOAPODS: 1.5.3
